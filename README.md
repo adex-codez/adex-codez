@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @adex-codez
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning javascipt,python and django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
